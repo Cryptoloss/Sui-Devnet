@@ -8,7 +8,9 @@ Not:@Ruesandora0 'dan forkladım
 Sistem Gereksinimleri
 
 **CPUs: 2**
+
 **RAM: 8GB**
+
 **Depolama: 50GB**
 
 Sudo Kurulumu
@@ -16,13 +18,6 @@ Sudo Kurulumu
 sudo apt install
 ```
 
-Sudo Güncelleme
-
-```
-sudo apt update
-
-sudo upgrade
-```
 _Bir Screen Oluşturalım_
 
 ```
@@ -47,6 +42,10 @@ Discord Link:https://discord.gg/DznV3tVp
 **Not: #pick-a-role role kanalından da kanalından istediğiniz rolü alın**
 
 ![role seç](https://user-images.githubusercontent.com/98783018/178504268-1cfb9938-b757-4e05-b9f7-381e97407f2f.png)
+
+Node Durumunu Kontrol etmek için
+
+https://node.sui.zvalid.com/
 
 Log Kontrol
 
