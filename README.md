@@ -35,7 +35,7 @@ Kurulum Sonrası Alacağınız çıktı Resimdeki Gibi Olmalı (Güncelleme sonr
 
 <img width="815" alt="kurulum sonrasi" src="https://user-images.githubusercontent.com/98783018/178959488-eb452991-502f-416b-a40d-e478be4c5625.png">
 
-Bu Çıktıdaki hhtp ile başlayan ve 9000 ile biten yere kadar kopyalayıp discorda atıyoruz gerisi hep aynı
+Bu Çıktıdaki hhtp ile başlayan ve 9000 ile biten yere kadar kopyalayıp oraya kendi IP yazın ve discorda atın gerisi hep aynı
 
 Daha Sonra [Discorda](https://discord.gg/DznV3tVp) Gidiyoruz Ve Resimdeki Kanala Resimdeki Gibi IP Adresimizi Bırakıyoruz
 
