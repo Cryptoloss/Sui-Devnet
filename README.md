@@ -1,6 +1,8 @@
 # Sui-Devnet
 Ağustos ayında Sui ödüllü node testneti başlayacak. Şuan Devnete katılanlar discorda IP veriyor belki bir eleme yaparlar o yüzden devnete katılacağım.
 
+Not:Çok ufak bir güncelleme geldi. Eğer daha önce devnete katılıp Http ile başlayan IP adresinizi discorda verdiyeseniz tekrar yapmanıza gerek yok 
+
 Not:@Ruesandora0 'dan forkladım
 
 ![sui devnet](https://user-images.githubusercontent.com/98783018/178501237-0a49f928-6f4b-4038-82ba-04cb0c50f579.png)
@@ -29,9 +31,11 @@ Full nodeumuzu yükleyelim **(15-20dk sürebilir**)
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
 
-Kurulum Sonrası Alacağınız çıktı Resimdeki Gibi Olmalı
+Kurulum Sonrası Alacağınız çıktı Resimdeki Gibi Olmalı (Güncelleme sonrası adım)
 
-![başarılı](https://user-images.githubusercontent.com/98783018/178503161-b069d15f-44ee-4872-a60c-9548fcd7e568.png)
+<img width="815" alt="kurulum sonrasi" src="https://user-images.githubusercontent.com/98783018/178959488-eb452991-502f-416b-a40d-e478be4c5625.png">
+
+Bu Çıktıdaki hhtp ile başlayan ve 9000 ile biten yere kadar kopyalayıp discorda atıyoruz gerisi hep aynı
 
 Daha Sonra [Discorda](https://discord.gg/DznV3tVp) Gidiyoruz Ve Resimdeki Kanala Resimdeki Gibi IP Adresimizi Bırakıyoruz
 
