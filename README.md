@@ -1,7 +1,7 @@
 # Sui-Devnet
 Ağustos ayında Sui ödüllü node testneti başlayacak. Şuan Devnete katılanlar discorda IP veriyor belki bir eleme yaparlar o yüzden devnete katılacağım.
 
-Not:Çok ufak bir güncelleme geldi. Eğer daha önce devnete katılıp Http ile başlayan IP adresinizi discorda verdiyeseniz tekrar yapmanıza gerek yok 
+Not:Çok ufak bir güncelleme geldi. Eğer daha önce devnete katılıp Http ile başlayan IP adresinizi discorda verdiyeseniz tekrar yapmanıza gerek yok. IP discorda gönderdikten sonra Sui kurduğunuz sunucuyu silebilirsiniz boş yere para vermeyin.
 
 Not:@Ruesandora0 'dan forkladım
 
